@@ -66,13 +66,13 @@ CONFIG_TARGET_ramips=y
 
 # CONFIG_TARGET_ramips_mt7620a is not set
 
-CONFIG_TARGET_ramips_mt7620n=y
+CONFIG_TARGET_ramips_mt7621=y
 
 # CONFIG_TARGET_ramips_rt3883 is not set
 
 # CONFIG_TARGET_ramips_rt288x is not set
 
-CONFIG_TARGET_ramips_mt7620n_Default=y
+CONFIG_TARGET_ramips_mt7621_Default=y
 
 CONFIG_HAS_SUBTARGETS=y
 
